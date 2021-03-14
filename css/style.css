@@ -1,0 +1,30 @@
+body {
+  background-image: url(backimg.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center; 
+ }
+.mar{
+  text-align: center;
+}
+
+.im{
+  height: 500px;
+
+}
+
+.second h1{
+  color: rgba(241, 48, 241, 0.623);
+  font-family: Impact;
+  font: bold;
+  
+}
+.second h4{
+  color: whitesmoke;
+}
+
+.a1{
+  color: white;
+}
+
